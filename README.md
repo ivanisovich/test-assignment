@@ -6,8 +6,8 @@
 1. Клонируйте репозиторий:
 
 ```sh
-git clone <адрес-репозитория>
-cd <директория-репозитория>
+git clone https://github.com/ivanisovich/test-assignment
+cd test-assignment
 ```
 
 2. Установите зависимости:
